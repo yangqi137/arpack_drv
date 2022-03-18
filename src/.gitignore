@@ -3,3 +3,4 @@ local.makefile
 *.o
 *.a
 *.dylib
+test/herm_test

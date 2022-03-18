@@ -1,0 +1,7 @@
+CXX = clang++
+CXXFLAGS = -g -O2 -DNDEBUG
+CPPFLAGS = -I/usr/local/include -I/Users/yangqi/src/boost-numeric-bindings/
+INSTALL_DIR = /usr/local
+ARPACK_DRV_DYLIB = libarpack_drv.dylib
+LDFLAGS = -dynamiclib
+LDLIBS = -larpack
