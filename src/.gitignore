@@ -1,0 +1,5 @@
+local.makefile
+.depend
+*.o
+*.a
+*.dylib

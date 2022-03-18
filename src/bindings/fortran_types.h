@@ -1,0 +1,7 @@
+#ifndef ARPACK_DRV_BINDINGS_FORTRAN_TYPES_H
+#define ARPACK_DRV_BINDINGS_FORTRAN_TYPES_H
+
+typedef int FORTRAN_INT; // INTEGER type in fortran
+typedef int FORTRAN_LOGICAL;
+
+#endif
